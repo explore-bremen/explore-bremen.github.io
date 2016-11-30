@@ -1,0 +1,14 @@
+title: Explore Bremen
+name: Explore Bremen
+contact_person: Lillan Lommel
+email: explorebremen@gmail.com
+facebook_name: explorebremen
+description: Explore Bremen ist eine von Studierenden der Jacobs University in Bremen ins Leben gerufene Initiative, die Schüler_innen der Gerhard-Rohlfs-Oberschule in Bremen-Vegesack durch bildungsbezogene Ausflüge mit einem individuellen Mentor unterstützt.
+
+# Build settings
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+#global config
+timezone: Europe/Berlin
